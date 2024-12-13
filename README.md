@@ -2,7 +2,11 @@
 
 이미지 따라하고 C 프로그램을 작성하세요.
 
-![final.png]
+![Final](final.png)
+
+다음 이미지는 struct 예시입니다. 비슷한 Student `struct` 만들어주세요.
+
+![Struct](final-struct-ex.png)
 
 변경 내용:
 
